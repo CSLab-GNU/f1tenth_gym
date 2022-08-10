@@ -14,4 +14,3 @@ setup(name='f110_gym',
                         'pyglet',
                         'pyopengl']
       )
-

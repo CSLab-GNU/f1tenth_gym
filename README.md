@@ -13,6 +13,7 @@ You can find the [documentation](https://f1tenth-gym.readthedocs.io/en/latest/) 
 You can install the environment by running:
 ```bash
 conda create -n gym python=3.8
+conda activate gym
 ```
 
 ```bash

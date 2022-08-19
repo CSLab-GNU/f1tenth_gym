@@ -8,8 +8,12 @@ This project is still under heavy developement.
 
 You can find the [documentation](https://f1tenth-gym.readthedocs.io/en/latest/) of the environment here.
 
+
 ## Quickstart
 You can install the environment by running:
+```bash
+conda create -n gym python=3.8
+```
 
 ```bash
 git clone https://github.com/f1tenth/f1tenth_gym.git
